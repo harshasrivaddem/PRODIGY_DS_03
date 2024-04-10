@@ -1,4 +1,4 @@
-n this project, Python's pandas and numpy libraries are imported for data manipulation and numerical operations, respectively. The main focus is on utilizing a dataset (bankdata.csv) to perform predictive modeling using a Decision Tree Classifier from sklearn.
+In this repository, Python's pandas and numpy libraries are imported for data manipulation and numerical operations, respectively. The main focus is on utilizing a dataset (bankdata.csv) to perform predictive modeling using a Decision Tree Classifier from sklearn.
 
 Key Steps and Components of the Project:
 
